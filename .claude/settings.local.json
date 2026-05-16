@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Soya/AppData/Local/Programs/Python//**)",
+      "Bash(conda --version)",
+      "Bash(py -0)",
+      "Bash(py *)",
+      "Bash(pip --version)",
+      "Bash(uv *)"
+    ]
+  }
+}
